@@ -1,7 +1,7 @@
 {
-  "name": "nft",
+  "name": "newauth",
   "version": "1.0.0",
-  "description": "A simple application for developement of nfts",
+  "description": "A new type of authentication for any system",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
